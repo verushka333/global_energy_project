@@ -12,7 +12,7 @@ Grouping
 Visualization
 Technologies
 
-List with used technologies, ex:
+# Technologies
 
 Python
 Pandas
@@ -22,10 +22,10 @@ We took advantage of a global dataset on sustatainable energy.
 https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy/
 https://www.energy.gov/gdo/puerto-rico-grid-resilience-and-transitions-100-renewable-energy-study-pr100#:~:text=Puerto%20Rico%20has%20committed%20to,Public%20Policy%20Act%20(Act%2017)
 
-Steps
+# Steps
 Add here any insights you had during the project
 
-Conclusion
+# Conclusion
 Final conclusion
 
-Contact
+# Contact
