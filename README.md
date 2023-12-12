@@ -1,11 +1,11 @@
 # pr_energy_project
 Project status(Active)
 
-Project objective
+# Project objective
 For our project objective we take on the goal set by the government of Puerto Rico to have a 40% sustainable energy grid by 2025. 
 Our aim is to assess the accuracy of this statement and compare the transition rate to sustainable energy with other countries. 
 
-Methods
+# Methods
 
 Filtering
 Grouping
