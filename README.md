@@ -63,3 +63,5 @@ It was not surprising to find out that the prediction of 40% renewable energy by
 We also looked at the rates of counties similar in density and found some counties have declined in the renewable ratio. This is mainly due to an increase in fossil fuel but not an equal increase in renewable energy. 
 
 # Contact
+https://github.com/baonline
+https://github.com/verushka333
