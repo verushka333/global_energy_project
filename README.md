@@ -1,9 +1,10 @@
 # pr_energy_project
-Project status(Active)
+Project status(Complete)
 
 # Project objective
-For our project objective, we take on the goal set by the government of Puerto Rico to have a 40% sustainable energy grid by 2025. 
-We aim to assess the accuracy of this statement and compare the transition rate to sustainable energy with other countries. 
+After coming accross the goal set by the govenrment of Puerto Rico to reach 40% sustainable energy by 2025 and 100% by 2050. 
+Our team decided to use the available data and resources to see how viable these statements can be, 
+We aim to benchmark Puerto Rico's transition rate to sustainable energy against that of other countries. 
 
 # Methods
 1. Import
@@ -28,9 +29,17 @@ from sklearn.linear_model import LinearRegression
 
 
 # Project Description
-We took advantage of a global dataset on sustainable energy. 
+With our dataset, we utilised functions, groupings and created models to visualize and compare the relevant data. 
+This led us to finding the rates which Puerto Rico and other countries have shown to transition to renewable energy. 
+
+We utilised a dataset found on Kaggle which provides global figures on sustainable energy from the year 2000 to 2020. Found here:
 https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy/
+
+Here is the the source for the government of Puerto Rico's set goal:
 https://www.energy.gov/gdo/puerto-rico-grid-resilience-and-transitions-100-renewable-energy-study-pr100#:~:text=Puerto%20Rico%20has%20committed%20to,Public%20Policy%20Act%20(Act%2017)
+
+Additional source that provides a study by the U.S. Energy Information Administration to supplement our findings:
+https://www.eia.gov/state/print.php?sid=RQ#:~:text=Puerto%20Rico%20Quick%20Facts&text=For%20fiscal%20year%202022%20(July,%2C%20and%20renewables%20generated%203%25.
 
 # Steps
 1. We identified a global energy dataset from Kaggle
@@ -54,3 +63,6 @@ It was not surprising to find out that the prediction of 40% renewable energy by
 We also looked at the rates of counties similar in density and found some counties have declined in the renewable ratio. This is mainly due to an increase in fossil fuel but not an equal increase in renewable energy. 
 
 # Contact
+https://github.com/baonline
+
+https://github.com/verushka333
